@@ -62,9 +62,9 @@ svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/msgpack-c
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/gotop
 
 # Subscribe converters
-svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/subconverter
-svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/jpcre2
-svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/rapidjson
+# svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/subconverter
+# svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/jpcre2
+# svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/rapidjson
 
 # Add smartdns
 svn co https://github.com/pymumu/smartdns/trunk/package/openwrt ../smartdns
